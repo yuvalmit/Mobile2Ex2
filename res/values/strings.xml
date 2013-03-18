@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MarkerOnMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="map_description">Map of shenkar softwere floor</string>
+    <string name="map_marker_description">some text about the marker</string>
+    
+
+</resources>
