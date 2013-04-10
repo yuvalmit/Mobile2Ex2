@@ -3,14 +3,10 @@ package net.mitrani.markeronmap;
 import android.os.Bundle;
 import android.annotation.SuppressLint;
 import android.app.Activity;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.text.Editable;
 import android.text.TextWatcher;
-import android.util.AttributeSet;
 import android.view.GestureDetector;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -18,7 +14,6 @@ import android.view.View.OnTouchListener;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
-import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 public class MainActivity extends Activity 
